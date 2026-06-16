@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-aliento-en-mi/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Tu aliento en mí](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-aliento-en-mi/) |
+| **Get License** | [Commercial Licensing for Tu aliento en mí](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-aliento-en-mi/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `5b853bc9c3689389f669221a25830634fc8d740b385d2c8c0dadf7d014c7b2da` |
 | **Timestamp** | June 16, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

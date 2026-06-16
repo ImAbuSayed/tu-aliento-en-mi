@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tu aliento en mí
+
+This log tracks the cryptographic history and versioning for the song **Tu aliento en mí** (tu-aliento-en-mi).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-16T15:27:27.764713 | `v1` | `5b853bc9c3689389f669221a25830634fc8d740b385d2c8c0dadf7d014c7b2da` | `073eba6540a85dfdd2bbcc91e075f6abf3f9e1cb14ee4f368fe0d8123ba95e71` | `2026-06-16_tu-aliento-en-mi-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
