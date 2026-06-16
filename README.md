@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-aliento-en-mi/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Tu aliento en mí](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-aliento-en-mi/) |
+| **Get License** | [Get a Licensing Quote for Tu aliento en mí](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-aliento-en-mi/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Siento tu aliento en mí, quemándome la piel,
+> Tu flow me tiene crazy, tú me sabes a miel.
+> Dime qué vamo' a hacer, la noche ya está puesta,
+> Tú eres la tentación que en mi mente se secuestra.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
